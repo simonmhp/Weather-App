@@ -6,6 +6,8 @@ The Application designed for 3 places and can be modified for n number of places
 
 > The Motive of the Application is the demonstrate the intrigation of the Weather API.
 
+https://github.com/user-attachments/assets/5409bf94-60aa-4aaa-a82d-56b520de1f72
+
 
 
 The API used is from https://www.weatherapi.com/
