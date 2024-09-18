@@ -5,7 +5,6 @@ This Application demonstrates the intrigation of REST API to display Current Wea
 The Application designed for 3 places and can be modified for n number of places as the places assigned to a List.
 
 > The Motive of the Application is the demonstrate the intrigation of the Weather API.
-**Sample**
 
 
 
